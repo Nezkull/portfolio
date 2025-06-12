@@ -1,7 +1,7 @@
 {
   "header": {
     "about_me": "Hi I'm Nick, thanks for taking the time to look at my site! I am a Software Developer and Game Designer graduate of Rochester Institute of Technology. I come from outside of Philadelphia, PA. I have worked on several different projects for a couple different companies/ organizations and really enjoy working in a professional setting of web design. I like to spend my free time playing games, solo or multi, and working on side projects and/or 3D models. Before going away to college, I would volunteer time at and enter cacti into the Philadelphia Flower Show.",
-    "profile_pic": "./assets/profile.jpg",
+    "profile_pic": "assets/profile.jpg",
     "resume_file": "nick_marano_resume.pdf"
   },
   "test" : "blarg",
