@@ -1,6 +1,5 @@
 import React from 'react'
 import './Experience.css'
-import Chart from 'chart.js/auto'
 
 //a line chart or pie graph of languages used would be really nice but idk if it'll really be feasible
 //will probably be a list of core skills
