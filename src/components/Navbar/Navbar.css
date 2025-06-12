@@ -1,0 +1,24 @@
+.navbar{
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+.nav-menu{
+  float: right;
+  transform: rotate(-90deg);
+  transform-origin: right bottom;
+  text-align: right;
+}
+
+.navbar a{
+  margin: 0px 15px;
+  text-decoration: none;
+  color: #50c878;
+  font-size: 20px;
+}
+
+.navbar a:hover{
+  font-weight: bold;
+  color: #309966;
+}

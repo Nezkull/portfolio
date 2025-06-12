@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "name": "Trealthy",
+      "images": [
+        "./src/assets/Images/react.svg",
+        "./src/assets/Images/react.svg"
+      ],
+      "description": "Trealthy is a first person stealth adventure. The player is tasked with find all of the pieces of the Empress tarot card, which symbolizes fertility and new growth, in order to fight back against the dark forces of pollution. The enemies are clouds of toxic pollution hunting the player through a forest. This game makes use of an AI system for the enemies, shaders, and custom models. It was made over a 48 hour period during Roc GameJam 2019. It was scripted in C# with shaders being written in HLSL, it was built in Unity."
+    },
+    {
+      "name": "FPS: Finite Platform Shooter",
+      "images": [
+        "./src/assets/Images/react.svg",
+        "./src/assets/Images/react.svg"
+      ],
+      "description": "FPS: Finite Platform Shooter is a first person platformer. This game was a team effort between my friend and I. It was made over a 48 hour period during HeroJam 2017. It is written in C# and built in Unity."
+    },
+    {
+      "name": "What Lies Beneath",
+      "images": [
+        "./src/assets/Images/react.svg",
+        "./src/assets/Images/react.svg"
+      ],
+      "description": "What Lies Beneath is a geo-location, augmented reality, mobile application designed for Android devices. It was the result of a semester long research studio while studying abroad in Dubrovnik, Croatia, which hosts one of RIT's satelite campuses. The goal of the app was to attempt to alleviate the problem of massive crowds of tourists clogging the streets of the historic Old Town in an interesting and engaging way. The app featured multiple quests, designed and built around the Croatian and Dubrovnik history and folklore. It was written in C# and built in Unity. World localization and representation was accomplished using the Mapbox API while a Unity plug-in, Vuforia, was used to build the AR functionality."
+    },
+    {
+      "name": "Fun with Fractals",
+      "images": [
+        "./src/assets/Images/react.svg"
+      ],
+      "description": "The Mandelbrot Set is fractal created by Benoit Mandelbrot. I wrote this project in C++ and made use of SFML to generate the video screen that portrays the Mandelbrot set. Over quarantine I began reading up on fractals after seeing several images online and wanted to practice my coding skills as well. The Mandelbrot set is the most interesting fractal to me, however I do plan to create others in my spare time."
+    },
+    {
+      "name": "Portfolio Site",
+      "images": [
+        "./src/assets/Images/react.svg"
+      ],
+      "description": "This site was built over a couple weekends using React. All of the content is generated from a JSON file at the moment, this way I can just update the json file rather then make changes to the different components. I am planning further improvements to showcase my skills by adding a very lightweight BE, probably MongoDB to keep track of interactions and visitors to start off."
+    }
+  ]
+}
